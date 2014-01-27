@@ -2,10 +2,10 @@
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : 在屁胡中寻求突破
+title : Lei's Blog
 tagline: Site Tagline
 author :
-  name : Lei Wang
+  name : Programmer Footprint
   email : leihz1989@163.com
   github : wary
   twitter : username
@@ -74,7 +74,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : custom
     disqus :
       short_name : jekyllbootstrap
     livefyre :
